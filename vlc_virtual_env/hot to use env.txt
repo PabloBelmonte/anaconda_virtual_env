@@ -1,0 +1,38 @@
+****************************************
+NOT NEEDED:
+Download CUDA for windows.
+https://developer.nvidia.com/cuda-downloads?target_os=Windows&target_arch=x86_64&target_version=10&target_type=exelocal
+
+****************************************
+Anaconda and Jupyter:
+>> Install Anaconda.
+https://www.youtube.com/redirect?v=aIOodnU6taI&event=video_description&redir_token=QUFFLUhqbmQ0RkhSV1RwS1RPS2hKajdtR0FDdFZuTjdQUXxBQ3Jtc0trLW1Ia3V5bGxxbGdMUFJFdTRqUDV4Sk1XVlZ2NWozcThVSEVpT2xCR1FCV042QWw0aGMwUThvUGJOUDNSYkdtUGRUSEZrZHRnX1plVXhaN29xRGRhUjR1ZGNxQkN0cmZGSzc4UlBzREdlXzVDeFNhVQ%3D%3D&q=https%3A%2F%2Fwww.anaconda.com%2Fdistribution%2F
+>> 
+
+****************************************
+>> Open anaconda3 prompt (powershell)
+
+>> update
+conda update conda
+
+>> close base env
+conda list --explicit > spec-file.txt
+conda create --name vlc --file spec-file.txt python=3.8.3
+
+conda create --name wfs --file D:\ANACONDA\vlc_virtual_env\spec-file.txt python=3.8.3
+
+>> Open env:
+conda activate vlc
+
+>> cuda packages:
+conda remove llvmlite
+conda install numba
+conda install cudatoolkit
+conda install pylint
+
+>> Leave
+conda deactivate
+
+****************************************
+>> Open jupyter notebook in the virtual env
+ipython kernel install --user --name=vlc

@@ -1,0 +1,1 @@
+C:\Users\Optma32\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Anaconda3 (64-bit)\Anaconda Powershell Prompt (anaconda3)
