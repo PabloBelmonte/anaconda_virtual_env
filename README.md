@@ -76,3 +76,16 @@ Setup the microsoft terminal for the VLC anaconda virtual environment. -->
 	• And type:
 		○ python.exe .\VLC.py
 
+
+## DEVELOPMENT:
+
+	• During development, whenever a new package is installed, add it to:
+		○ "C:\Users\Pablo\Documents\GitHub\anaconda_virtual_env\vlc_virtual_env\install_other_packages.bat"
+		○ Replace with your path..
+		○ Add like: "pip install <NEW_PACKAGE>"
+	• If a new package is installed through Anaconda, re-generate the "spec-file.txt". Go to:
+		○ cd "C:\Users\Pablo\Documents\GitHub\anaconda_virtual_env\vlc_virtual_env"
+		○ Replace with your path.. And run
+		○ conda list --explicit > spec-file.txt
+	• Then, commit all changes to the repo
+
