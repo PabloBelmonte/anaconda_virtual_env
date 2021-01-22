@@ -35,6 +35,7 @@ https://repo.anaconda.com/pkgs/main/win-64/tk-8.6.10-he774522_0.conda
 https://repo.anaconda.com/pkgs/main/win-64/xz-5.2.5-h62dcd97_0.conda
 https://repo.anaconda.com/pkgs/main/win-64/yaml-0.2.5-he774522_0.conda
 https://repo.anaconda.com/pkgs/main/win-64/zlib-1.2.11-h62dcd97_4.conda
+https://repo.anaconda.com/pkgs/main/win-64/blosc-1.19.0-h7bd577a_0.conda
 https://repo.anaconda.com/pkgs/main/win-64/hdf5-1.10.4-h7ebc959_0.conda
 https://repo.anaconda.com/pkgs/main/win-64/krb5-1.18.2-hc04afaa_0.conda
 https://repo.anaconda.com/pkgs/main/win-64/libpng-1.6.37-h2a8f88b_0.conda
@@ -45,7 +46,6 @@ https://repo.anaconda.com/pkgs/main/win-64/mpc-1.1.0-h7edee0f_1.conda
 https://repo.anaconda.com/pkgs/main/win-64/sqlite-3.32.3-h2a8f88b_0.conda
 https://repo.anaconda.com/pkgs/main/win-64/zeromq-4.3.2-ha925a31_2.conda
 https://repo.anaconda.com/pkgs/main/win-64/zstd-1.4.5-ha9fde0e_0.conda
-https://repo.anaconda.com/pkgs/main/win-64/blosc-1.19.0-h7bd577a_0.conda
 https://repo.anaconda.com/pkgs/main/win-64/freetype-2.10.2-hd328e21_0.conda
 https://repo.anaconda.com/pkgs/main/win-64/libarchive-3.4.2-h5e25573_0.conda
 https://repo.anaconda.com/pkgs/main/win-64/libcurl-7.71.1-h2a8f88b_1.conda
