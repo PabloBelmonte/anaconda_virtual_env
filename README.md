@@ -73,6 +73,6 @@ Setup the microsoft terminal for the VLC anaconda virtual environment. -->
 	• To run the VLC simulator, go to:
 		○ cd "C:\Users\Pablo\Documents\GitHub\vlc_simulator\VLC_devel\source\"
 		○ Replace it with your path
-	• And type?
+	• And type:
 		○ python.exe .\VLC.py
 
