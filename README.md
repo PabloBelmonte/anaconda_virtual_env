@@ -19,7 +19,7 @@ Setup the microsoft terminal for the VLC anaconda virtual environment. -->
 		○ On the command prompt that opened, see the base environment loaded
 			§ with a "(base)", showing before the command line.
 		○ Type "conda update conda" to update it.
-			§ Presse "y" for yes, when necessary.
+			§ Press "y" for yes, when necessary.
 		○ Go to the "anaconda_virtual_env\vlc_virtual_env" path, as in my case, type:
 			§ cd "C:\Users\Pablo\Documents\GitHub\anaconda_virtual_env\vlc_virtual_env"
 				□ Replace "C:\Users\Pablo\Documents\GitHub\" with your path
