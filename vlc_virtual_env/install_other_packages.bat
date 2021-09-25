@@ -5,6 +5,8 @@ pip install reikna
 pip install tabulate
 pip install beeprint
 
+pip install py2puml
+
 rem pip uninstall bitstring
 rem pip uninstall scikit-commpy
 rem pip uninstall pyFFTW

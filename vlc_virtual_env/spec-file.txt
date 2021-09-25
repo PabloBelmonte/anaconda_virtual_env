@@ -95,6 +95,7 @@ https://repo.anaconda.com/pkgs/main/win-64/psutil-5.7.0-py38he774522_0.conda
 https://repo.anaconda.com/pkgs/main/win-64/py-lief-0.10.1-py38ha925a31_0.conda
 https://repo.anaconda.com/pkgs/main/win-64/pycosat-0.6.3-py38he774522_0.conda
 https://repo.anaconda.com/pkgs/main/win-64/pycurl-7.43.0.5-py38h7a1dbc1_0.conda
+https://repo.anaconda.com/pkgs/main/win-64/pydantic-1.7.3-py38h2bbff1b_0.conda
 https://repo.anaconda.com/pkgs/main/win-64/pyodbc-4.0.30-py38ha925a31_0.conda
 https://repo.anaconda.com/pkgs/main/win-64/pyreadline-2.1-py38_1.conda
 https://repo.anaconda.com/pkgs/main/win-64/pywin32-ctypes-0.2.0-py38_1000.conda
@@ -250,7 +251,7 @@ https://repo.anaconda.com/pkgs/main/win-64/cytoolz-0.10.1-py38he774522_0.conda
 https://repo.anaconda.com/pkgs/main/noarch/partd-1.1.0-py_0.conda
 https://repo.anaconda.com/pkgs/main/noarch/tqdm-4.47.0-py_0.conda
 https://repo.anaconda.com/pkgs/main/win-64/conda-package-handling-1.7.2-py38h76e460a_0.conda
-https://repo.anaconda.com/pkgs/main/win-64/conda-4.9.2-py38haa95532_0.conda
+https://repo.anaconda.com/pkgs/main/win-64/conda-4.10.3-py38haa95532_0.conda
 https://repo.anaconda.com/pkgs/main/win-64/conda-build-3.18.11-py38_1.conda
 https://repo.anaconda.com/pkgs/main/noarch/conda-verify-3.4.2-py_1.conda
 https://repo.anaconda.com/pkgs/main/noarch/nltk-3.5-py_0.conda
