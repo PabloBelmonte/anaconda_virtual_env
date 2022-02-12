@@ -71,10 +71,10 @@ Setup the microsoft terminal for the VLC anaconda virtual environment. -->
 		○ "C:\Users\Pablo\Documents\GitHub\anaconda_virtual_env\vlc_virtual_env\install_other_packages.bat"
 		○ Replace with your path..
 	• To run the VLC simulator, go to:
-		○ cd "C:\Users\Pablo\Documents\GitHub\vlc_simulator\VLC_devel\source\"
+		○ cd "C:\Users\Pablo\Documents\GitHub\vlc_simulator\VLC_devel\src\"
 		○ Replace it with your path
 	• And type:
-		○ python.exe .\VLC.py
+		○ python.exe .\RUN.py
 
 
 ## DEVELOPMENT:
